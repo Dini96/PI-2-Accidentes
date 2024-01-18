@@ -3,7 +3,7 @@ Bienvenidos a este repo donde hablaremos sobre los accidentes que se empezaron a
 
 ## Análisis Exploratorio de Datos (EDA) de Accidentes de Vehículos Aéreos
 Descripción del Proyecto
-Este proyecto tiene como objetivo realizar un EDA sobre los accidentes aéreos, con el fin de obtener una comprensión más profunda de los patrones, causas y consecuencias de estos incidentes. La recopilación y análisis de datos sobre accidentes de vehículos aéreos es crucial para mejorar la seguridad en la aviación y tomar medidas preventivas.
+Este proyecto tiene como objetivo realizar un EDA, tambien conocido como analisis exploratorio de los datos, sobre los accidentes aéreos. El objetivo principal es obtener una comprensión más profunda de los patrones, causas y consecuencias de estos incidentes. La recopilación y análisis de datos sobre accidentes de vehículos aéreos es crucial para mejorar la seguridad en la aviación y tomar medidas preventivas. En un principio se obtienen variables como media, moda y mediana que son unidades de tendencia central para poder observar como se comportan nuestros datos
 
 # Conjunto de Datos
 El conjunto de datos utilizado en este proyecto contiene información sobre accidentes de vehículos aéreos, incluyendo detalles como la fecha, ruta, el tipo de aeronave, el número de víctimas, número de supervivientes y más. El conjunto de datos se ha obtenido de HENRY en la siguiente liga https://github.com/soyHenry/PI_DA/tree/Full_Time y se utilizará para llevar a cabo un análisis completo.
